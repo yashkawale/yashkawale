@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yashkawale
 - 👀 I’m interested in play online games
 - 🌱 I’m currently persueing CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 kawaleyash001@gmail.com
 
 <!---
 yashkawale/yashkawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
