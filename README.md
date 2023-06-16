@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashkawale
 - 👀 I’m interested in play online games
-- 🌱 I’m currently persueing CSE
+- 🌱 I’m currently persuing CSE
 - 📫 kawaleyash001@gmail.com
 
 <!---
